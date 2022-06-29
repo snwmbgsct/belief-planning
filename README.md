@@ -2,8 +2,6 @@
 
 ## How to run
 
-'''bash
-
+```bash
 pip install scipy cvxopt osqp ecos casadi 
-
-'''
+```
